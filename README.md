@@ -106,7 +106,7 @@ After selecting keyframes using ORB matching and applying Savitzky-Golay smoothi
 
 Feature matching is visualized below using ORB between Frame 232 and 234.
 
-![Keyframe ORB Match](output/matcher/match_0232_0234.png)
+![Keyframe ORB Match](match_0232_0234.png)
 
 Frames with fewer than 40 matches are skipped to reduce redundancy.
 
