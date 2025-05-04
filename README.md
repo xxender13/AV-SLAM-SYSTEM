@@ -108,6 +108,7 @@ Feature matching is visualized below using ORB between Frame 232 and 234.
 
 ![Keyframe ORB Match](match_0232_0234.png)
 
+
 Frames with fewer than 40 matches are skipped to reduce redundancy.
 
 ---
